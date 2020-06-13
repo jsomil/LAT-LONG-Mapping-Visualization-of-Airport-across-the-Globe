@@ -10,10 +10,10 @@ information about the airport within a country and the nearest airport based on 
 
 ## Features want to incorporate into this project
 
-### Visualization of the airport distribution across the globe.
-### As it is interactive, will also show the information about the airport like timezone, name, country etc..just on the click.
-### Search based query about the airport.
-### Nearest airport based on the location (latitude,longitude).
+* Visualization of the airport distribution across the globe.
+* As it is interactive, will also show the information about the airport like timezone, name, country etc..just on the click.
+* Search based query about the airport.
+* Nearest airport based on the location (latitude,longitude).
 
 
 ## Dataset 
@@ -36,5 +36,5 @@ source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airpo
 
 ## Visualization Tool
 
-### Implemented with Tableau.
-### If time permits then I would also like to show the visualization of air traffic across the globe.
+1. Implemented with Tableau.
+2. If time permits then I would also like to show the visualization of air traffic across the globe.
