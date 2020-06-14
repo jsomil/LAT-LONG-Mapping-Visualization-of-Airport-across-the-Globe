@@ -41,4 +41,4 @@ source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airpo
 
 # Results
 
-![Image](1airport.jpg)
+![Image](1airport.PNG)
