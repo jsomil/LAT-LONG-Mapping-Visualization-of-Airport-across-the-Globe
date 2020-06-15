@@ -48,6 +48,11 @@ source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airpo
 
 # Results
 
+![Image](w1.PNG)
+
+![Image](w2.PNG)
+
+
 ![Image](1airport.PNG)
 
 ![Image](air.PNG)
