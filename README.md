@@ -39,7 +39,11 @@ source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airpo
 1. Implemented with Tableau.
 2. If time permits then I would also like to show the visualization of air traffic across the globe.
 
+
+# Tableau Dashboard Interface
+
+![Image](dashboard.PNG)
+
 # Results
 
- Images
 ![Image](1airport.PNG)
