@@ -55,4 +55,8 @@ source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airpo
 
 ![Image](1airport.PNG)
 
+![Image](w4Treemap.PNG)
+
 ![Image](air.PNG)
+
+![Image](w5.PNG)
