@@ -34,19 +34,19 @@ u","airport","OurAirports"
 source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
 (https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat)
 
-## Visualization Tool
+## Visualization Tool:
 
 1. Implemented with Tableau.
 2. If time permits then I would also like to show the visualization of air traffic across the globe.
 
 
-# Tableau Dashboard Interface
+# Tableau Dashboard Interface:
 
 ![Image](dashboard.PNG)
 
 ![Image](dashboard1.PNG)
 
-# Results
+# Results:
 
 ![Image](w1.PNG)
 
